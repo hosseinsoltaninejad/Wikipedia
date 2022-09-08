@@ -1,5 +1,5 @@
 # Wikipedia
-Simple app created with androidStudio,kotlin.
+Simple app created with android Studio,kotlin.
 
 # General info
 This Project Is Simple Learn about Material Design , design language developed by Google.
